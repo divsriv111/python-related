@@ -1,0 +1,15 @@
+Is blockchain technology the new internet?
+The blockchain is an undeniably ingenious invention
+ the brainchild of a person or group of people known by the pseudonym,  Satoshi Nakamoto.
+  But since then, it has evolved into something greater, and the main question every single person is asking is: What is Blockchain?
+By allowing digital information to be distributed but not copied,
+ blockchain technology created the backbone of a new type of internet.
+ Originally devised for the digital currency, Bitcoin, the tech community is now finding other potential uses for the technology.
+
+Bitcoin has been called digital gold, and for a good reason.
+To date, the total value of the currency is close to $9 billion US.
+And blockchains can make other types of digital value. Like the internet (or your car), you don't need to know how the blockchain works to use it.
+However, having a basic knowledge of this new technology shows why it's considered revolutionary. So, we hope you enjoy this, what is Blockchain guide.
+*****appending to this file******
+hello, i am writting this shit just to check if my code is running properly or not.
+thank you
