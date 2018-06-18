@@ -1,0 +1,7 @@
+def count(x):
+    x=x.split()
+    return(len(x))
+
+
+print(count("I belong to a very middle-class family. My father, who was the only breadwinner in my family, expired last year in November. Since then, we are having a very hard time, my family has already taken a loan from bank and relatives for my College fees.I have an elder brother but he is also currently unemployed because of some personal circumstances (he recently had a surgical operation in February month after which the doctors have advised him to take 4-5month complete bed rest).I want to take this course because I want to learn and make my career in the field of machine learning and AI. I am very passionate about learning and I want to enroll in this course because this will give me a head-start in the field of machine learning."))
+print(count("This course is about mathematics which is pre-requisite for Data science and Machine learning. I want to make my career in the field of Machine learning and Artificial Intelligence. This course will allow me to enhance my present skills and knowledge and provide me the opportunity to develop a firm understanding regarding the mathematics involving in the Machine learning algorithms. Also, completing this course successfully will give the prestigious certificate from Coursera.org which has a very high reputation everywhere. A certificate from Coursera in my resume will make my resume more considerable during Job interviews."))
